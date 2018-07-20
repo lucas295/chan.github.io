@@ -1,2 +1,1 @@
-# chan.github.io
-一个简单缩放框
+利用bootstrap+div+css制作一个缩放阅
